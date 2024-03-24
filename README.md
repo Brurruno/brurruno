@@ -4,10 +4,13 @@
 
 📍 Localização: São Paulo, Brasil
 # 
+
+
 # 🚀 Experiência Profissional:
 * Criador do  [Projeto Lorena](https://www.orangetesting.com/#lorena) (Extensão de automação da Orange Testing)
 * Líder do Time de Desenvolvimento Front-end na Aplicação Orange Testing
 * Mais de 5 anos de experiência em Aplicações Front-end
+
 
 # Estudando
 * Gestão de Projetos
@@ -16,6 +19,8 @@
 * Extensões para Chrome
 * Svelte
 * Backend (C#, Node.js)
+
+
 
 ## Linguagens/Frameworks
 <div>
@@ -34,4 +39,13 @@
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />    
 </div>
+
+####
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=brurruno&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+
+
 
